@@ -5,6 +5,9 @@ public class Main {
         System.out.println("Hello world"); // trying again
         System.out.println("Hello world"); // trying again
         System.out.println("Hello world"); // trying again
+        System.out.println("Hello world"); // trying again
+        System.out.println("Hello world"); // trying again
+        System.out.println("Hello world"); // trying again
         System.out.println("Goodbye world"); // I have pushed this change
     }
 }
