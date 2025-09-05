@@ -1,18 +1,7 @@
 package com.loveyourwork;
 
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Are you there?"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Hello world"); // trying again
-        System.out.println("Goodbye world"); // I have pushed this change
+    public static void Main(String[] args) {
+        System.out.print("\nAre you there?");
     }
 }
